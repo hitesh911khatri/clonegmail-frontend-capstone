@@ -1,1 +1,1 @@
-# clonegmail-frontend-capstone
+# capstonegmailfrontend
